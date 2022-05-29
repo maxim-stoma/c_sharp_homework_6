@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/bin/Debug/net6.0/task043_intersectionPoint
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/bin/Debug/net6.0/task043_intersectionPoint.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/bin/Debug/net6.0/task043_intersectionPoint.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/bin/Debug/net6.0/task043_intersectionPoint.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/bin/Debug/net6.0/task043_intersectionPoint.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/task043_intersectionPoint.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/task043_intersectionPoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/task043_intersectionPoint.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/task043_intersectionPoint.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/task043_intersectionPoint.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/task043_intersectionPoint.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/refint/task043_intersectionPoint.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/task043_intersectionPoint.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/task043_intersectionPoint.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task043_intersectionPoint/obj/Debug/net6.0/ref/task043_intersectionPoint.dll
