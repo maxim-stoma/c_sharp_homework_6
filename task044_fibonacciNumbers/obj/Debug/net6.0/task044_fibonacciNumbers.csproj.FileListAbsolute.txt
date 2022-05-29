@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/bin/Debug/net6.0/task044_fibonacciNumbers
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/bin/Debug/net6.0/task044_fibonacciNumbers.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/bin/Debug/net6.0/task044_fibonacciNumbers.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/bin/Debug/net6.0/task044_fibonacciNumbers.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/bin/Debug/net6.0/task044_fibonacciNumbers.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/task044_fibonacciNumbers.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/task044_fibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/task044_fibonacciNumbers.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/task044_fibonacciNumbers.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/task044_fibonacciNumbers.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/task044_fibonacciNumbers.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/refint/task044_fibonacciNumbers.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/task044_fibonacciNumbers.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/task044_fibonacciNumbers.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task044_fibonacciNumbers/obj/Debug/net6.0/ref/task044_fibonacciNumbers.dll
