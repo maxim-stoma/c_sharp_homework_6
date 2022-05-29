@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/bin/Debug/net6.0/task041_theNumberOfPositive
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/bin/Debug/net6.0/task041_theNumberOfPositive.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/bin/Debug/net6.0/task041_theNumberOfPositive.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/bin/Debug/net6.0/task041_theNumberOfPositive.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/bin/Debug/net6.0/task041_theNumberOfPositive.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/task041_theNumberOfPositive.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/task041_theNumberOfPositive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/task041_theNumberOfPositive.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/task041_theNumberOfPositive.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/task041_theNumberOfPositive.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/task041_theNumberOfPositive.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/refint/task041_theNumberOfPositive.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/task041_theNumberOfPositive.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/task041_theNumberOfPositive.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_5/task041_theNumberOfPositive/obj/Debug/net6.0/ref/task041_theNumberOfPositive.dll

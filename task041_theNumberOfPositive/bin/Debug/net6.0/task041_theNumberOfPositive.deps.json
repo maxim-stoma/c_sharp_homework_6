@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task041_theNumberOfPositive/1.0.0": {
+        "runtime": {
+          "task041_theNumberOfPositive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task041_theNumberOfPositive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
