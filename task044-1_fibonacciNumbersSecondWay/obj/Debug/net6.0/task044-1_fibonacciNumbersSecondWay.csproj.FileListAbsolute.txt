@@ -1,0 +1,15 @@
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\bin\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.exe
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\bin\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.deps.json
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\bin\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.runtimeconfig.json
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\bin\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.dll
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\bin\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.pdb
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.csproj.AssemblyReference.cache
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.AssemblyInfoInputs.cache
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.AssemblyInfo.cs
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.csproj.CoreCompileInputs.cache
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.dll
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\refint\task044-1_fibonacciNumbersSecondWay.dll
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.pdb
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\task044-1_fibonacciNumbersSecondWay.genruntimeconfig.cache
+D:\Documents\Study\Homework\homework_6\task044-1_fibonacciNumbersSecondWay\obj\Debug\net6.0\ref\task044-1_fibonacciNumbersSecondWay.dll
