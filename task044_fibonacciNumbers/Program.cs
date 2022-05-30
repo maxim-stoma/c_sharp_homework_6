@@ -2,7 +2,7 @@
         {
             if(array.Length < 1)
             {
-                Console.WriteLine("So what do you want to see here?");
+                Console.WriteLine("Ну и что ты тут хочешь увидеть, умник?");
             }
             
             else if (array.Length == 1)
@@ -38,10 +38,10 @@
             }    
         }
             
-        Console.WriteLine("How many Fibonacci numbers do you want to print?");
+        Console.WriteLine("Сколько чисел последовательности Фибоначчи надо?");
         int n = Convert.ToInt32(Console.ReadLine());
         int[] fibonacci = new int[n];
-        Console.Write("Fibonacci numbers from 1 to " + n + ": ");
+        Console.Write($"Последовательность Фибоначчи от 1 до {n}: ");
         
         FibonacciSequence(fibonacci);
         Console.ReadLine();
